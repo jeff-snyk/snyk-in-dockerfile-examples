@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/snyk-playground/snyk-in-dockerfile-examples#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0"
   }
 }
